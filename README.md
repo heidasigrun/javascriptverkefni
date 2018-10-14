@@ -1,0 +1,2 @@
+# javascriptverkefni
+javascriptverkefni
