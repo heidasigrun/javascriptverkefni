@@ -1,0 +1,17 @@
+body {
+    background-color: aqua;
+}
+.listi {
+    list-style: none;
+    height: 100px;
+    width: 90%;
+}
+.heading {
+    height: 40px;
+    background-color: white;
+}
+.more {
+    height: 60px;
+    color: white;
+    background-color: rgb(36, 90, 90);
+}
